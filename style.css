@@ -2,6 +2,7 @@ body {
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+    text-color: white;
 }
 
 /* header */
@@ -9,7 +10,6 @@ body {
 h1 {
     font-weight: normal;
     font-size: 50px;
-    color: white;
     text-align: center;
 }
 
@@ -19,5 +19,6 @@ a {
 
 }
 footer {
-    align-content:flex-end;
+    text-align: end;
+    color: gray;
 }
